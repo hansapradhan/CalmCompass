@@ -12,3 +12,5 @@ Data Privacy: No sensitive personal data is stored, and all mental health data i
 Devpost:
 
 https://devpost.com/software/calm-compass
+
+![image](https://github.com/user-attachments/assets/31b12390-528e-44bb-9fc4-6dab39f95ef4)
